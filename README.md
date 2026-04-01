@@ -17,3 +17,5 @@ and how they happened, especially after entanglement due to the *CNOT* gate.
 
 - **Basics of Quantum Information**
   - Studying_Basics_Exam
+- **Fundamentals of Quantum Algorithms**
+  - Deutsch's Algorithm
